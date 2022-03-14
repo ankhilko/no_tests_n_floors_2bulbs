@@ -1,0 +1,4 @@
+There is a building. This building has 100 floors. You are given two lightbulbs.
+The fact about those lightbulbs is that they start breaking when thrown down from some specific floor.
+Let's say for example that thrown from the 31st floor lightbulb doesn't break and from 32nd it breaks.
+Your task is to find an algorithm that will find the floor number from which lighbulb starts breaking with as little throws as possible.
